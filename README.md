@@ -7,11 +7,11 @@ Das Projekt dient als Übung für DOM‑Manipulation, Event‑Handling und grund
 
 ## Features
 
-- ✔️ Klassisches Tic‑Tac‑Toe (Spieler X gegen Spieler O)  
-- ✔️ Visuelles Highlighting der Gewinnerkombination  
-- ✔️ Reset‑Button zum Neustarten des Spiels  
-- ✔️ Responsive UI – funktioniert auf Desktop und Mobile  
-- ✔️ Saubere, gut strukturierte Game‑Logik  
+-  Klassisches Tic‑Tac‑Toe (Spieler X gegen Spieler O)  
+-  Visuelles Highlighting der Gewinnerkombination  
+-  Reset‑Button zum Neustarten des Spiels  
+-  Responsive UI – funktioniert auf Desktop und Mobile  
+-  Saubere, gut strukturierte Game‑Logik  
 
 
 
